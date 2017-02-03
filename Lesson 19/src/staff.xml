@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<staffs>
+    &lt;wsdsgfdg;&gt; &amp;
+    <staff id="1">
+    <firstName>
+        Вася
+    </firstName>
+    <lastName>
+        Пупкин
+    </lastName>
+        <sallary isRegular="true">
+            3000
+        </sallary>
+        <!--<isRegular>
+            true
+        </isRegular>-->
+    </staff>
+    <s/>        <!--одинарная запись, равнозначно <s></s> -->
+    <staff id="2">
+        <firstName>
+            Петя
+        </firstName>
+        <lastName>
+            Пупкин
+        </lastName>
+        <sallary isRegular="true"> <!--атрибут-->
+            3000
+        </sallary>
+        <!--<box width="30" height="30" depth="30">
+            <color>red</color>
+        </box>-->
+    </staff>
+</staffs>
+    <companies>
+
+    </companies>
+</root>
